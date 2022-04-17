@@ -11,7 +11,7 @@ Here, Dynamic Hedging took place.
 Developed a logic, where an order book was formed.
 The order book automatically modifies itself, based on whether the market is moving towards the bid or ask.
 
-https://github.com/anubhavsingh10/QA_Assignment/blob/master/img/Order_Book.JPG
+![alt text] https://github.com/anubhavsingh10/QA_Assignment/blob/master/img/Order_Book.JPG
 
 
 Further modification can be done by using skewness and modifying the margins based on volatility
